@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://phoenixnap.dl.sourceforge.net/project/op7-oos10-mi6x/OP7_PORT/OP7_OOS10_STABLE01_WAYNE_20082502.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTQwODg0ODIiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6IjcyN2M4NmExMzViMjY1ZTViZWI3NDE2MDljYzkxMWRkYzRhYmNhYzE2MmQ4NGU5ZThiNzFjNzAzY2M1NTJhZWQ0ODgyNmZkNDA2Zjk4OTczNzQyMDNjYWE4NzQ0Y2NmYTQxNWNiMTk0NWY4ZjJhZGUzYzZmYmU4ZTIyOTIxN2QxIiwidCI6MTYxNjUxNzE0Mywic3RmcCI6IjM5YjhiMzFmYTM1MzIxZGE0NzgxNTA4MzQ5MTYwZDJmIiwic3RpcCI6IjIwMDE6ZWUwOjRmY2Y6NTFhMDo2NTliOjk5NjE6N2E4MjozODRiIn0.gX_pisVX7ZNk3wT98gP5XVg266dl-LhfuZCc0PN2AUk/Corvus_v14.5-Mutate-lavender-Gapps-22022021-OFFICIAL-2013.zip
+  ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: true
   ROM_AONLY: ROM_A.7z
