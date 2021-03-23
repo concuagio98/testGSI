@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://phoenixnap.dl.sourceforge.net/project/corvus-os/vince/Corvus_v14.5-Mutate-vince-Gapps-25022021-Official-0604.zip
+  ROM_URL: https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTQ0OTg4MjAiLCJ1IjpudWxsLCJsdCI6ImRvd25sb2FkIiwicyI6ImI1NTg1ZjQ4NjEzZjhjNzM3MmFiYzJjZTE3ZTljNDdiM2RiMWEyNzU1ZDliNmIwNDM5MGU4ZDg3Y2NhYjJhODdjMzIzZDQ4MjAwYmQ2YTEzNWE1MTJjOTRkNjA1Y2VlZDdlMzhhZDA3YjU3YWU1MDIwNDg5MDk2MzA5NDJlOGM1IiwidCI6MTYxNjUxMzUxMSwic3RmcCI6IjM5YjhiMzFmYTM1MzIxZGE0NzgxNTA4MzQ5MTYwZDJmIiwic3RpcCI6IjIwMDE6ZWUwOjRmY2Y6NTFhMDo2NTliOjk5NjE6N2E4MjozODRiIn0.2IByVVw0mhn2PyRJP2flr__reHVPvyzx7N053NFjYfU/Corvus_v14.5-Mutate-violet-Gapps-28022021-Official-0530.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
-  ROM_AB: ROM_AB.7z
+  ROM_AB: ROM2_AB.7z
 
 jobs:
   build:
