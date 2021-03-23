@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.havoc-os.com/platina/Havoc-OS-v4.2-20210308-platina-Official.zip
+  ROM_URL: https://phoenixnap.dl.sourceforge.net/project/corvus-os/vince/Corvus_v14.5-Mutate-vince-Gapps-25022021-Official-0604.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
