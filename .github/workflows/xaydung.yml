@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirror.gpriworld.workers.dev/0://Oxygen%20Os%20From%20Op6%20For%20X01BD.zip
+  ROM_URL: https://phoenixnap.dl.sourceforge.net/project/op7-oos10-mi6x/OP7_PORT/OP7_OOS10_STABLE01_WAYNE_20082502.zip
   ROM_NAME: OxygenOS
   BUILD_AB: true
   BUILD_Aonly: false
