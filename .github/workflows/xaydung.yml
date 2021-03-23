@@ -8,7 +8,7 @@ env:
   ROM_URL: https://phoenixnap.dl.sourceforge.net/project/op7-oos10-mi6x/OP7_PORT/OP7_OOS10_STABLE01_WAYNE_20082502.zip
   ROM_NAME: OxygenOS
   BUILD_AB: true
-  BUILD_Aonly: false
+  BUILD_Aonly: true
   ROM_AONLY: ROM_A.7z
   ROM_AB: ROM_test_AB.7z
 
