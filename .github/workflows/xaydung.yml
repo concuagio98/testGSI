@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://downloads.droidontime.com/dot11/davinci/vanilla/dotOS-R-v5.0.0-davinci-OFFICIAL-20210218-1710.zip
+  ROM_URL: https://udomain.dl.sourceforge.net/project/zimek-roms/Chiron/DOTOS/dotOS-R-v5.0.0-chiron-UNOFFICIAL-20210309-1426.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: true
